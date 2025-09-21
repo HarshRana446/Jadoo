@@ -7,9 +7,6 @@ export function Footer() {
           <div className="flex flex-col items-center space-y-2">
             <div className="text-sm font-medium text-foreground">Created by Harsh Rana</div>
             <div className="flex flex-wrap justify-center gap-4 text-xs text-muted-foreground">
-              <a href="mailto:ranaharsh669@gmail.com" className="hover:text-foreground transition-colors">
-                ranaharsh669@gmail.com
-              </a>
               <a
                 href="https://www.linkedin.com/in/harsh-rana-max/"
                 target="_blank"

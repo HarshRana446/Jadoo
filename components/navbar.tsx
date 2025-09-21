@@ -27,7 +27,6 @@ export function Navbar() {
             <span className="font-bold text-xl bg-gradient-to-r from-blue-600 to-purple-600 dark:from-blue-400 dark:to-purple-400 bg-clip-text text-transparent">
               Jadoo
             </span>
-            <span className="text-muted-foreground hidden sm:inline">– Your AI Assistant</span>
           </Link>
 
           <div className="hidden md:flex items-center space-x-1">
